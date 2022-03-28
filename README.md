@@ -1,4 +1,4 @@
-# cccp_frontend
+# ccctp_frontend
 
 > A Vue.js project
 
